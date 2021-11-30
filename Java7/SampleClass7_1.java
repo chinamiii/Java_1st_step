@@ -1,0 +1,10 @@
+package Java7;
+
+public class SampleClass7_1 {
+    int a = 100;
+    String s = "ABC";
+
+    int add(int a,int b){
+      return a + b;
+    }
+}
