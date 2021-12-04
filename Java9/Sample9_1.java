@@ -6,5 +6,6 @@ public class Sample9_1 {
         c.move();
         PoliceCar p = new PoliceCar();
         p.chase();
+        p.move();
     }
 }
